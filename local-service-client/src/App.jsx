@@ -18,7 +18,7 @@ export default function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/services" element={<Services />} />
         <Route path="/register" element={<Register />} />
-        <Route path="/provider-dashboard" element={<Providerdash />} />
+        <Route path="/providerdash" element={<Providerdash />} />
       </Routes>
     </BrowserRouter>
     <Footer/>
