@@ -46,7 +46,7 @@ export default function Footer() {
           </h3>
           <ul className="space-y-2 text-white text-m">
             <li>Email: support@localease.com</li>
-            <li>Phone: +91 7217xxxx19</li>
+            <li>Phone: +91 7012xxxx19</li>
             <li>India</li>
           </ul>
         </div>
